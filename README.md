@@ -6,4 +6,4 @@ Uses Streamlit for a clean User Interface for displaying the Recommendations
 
 ## Installation
 1) Clone the repository
-   'git clone https://github.com/itsmeherepranetha/Movie_Recommendation_System.git'
+    git clone https://github.com/itsmeherepranetha/Movie_Recommendation_System.git
