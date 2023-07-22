@@ -15,7 +15,7 @@
 ```bash
   git clone https://github.com/itsmeherepranetha/Movie_Recommendation_System.git
 ```
-2. Open the folder using an Editor preferably PyCharm , or VS code and run the below command in the terminal.PyCharm is preferable since only the libraries and modules which are needed for the project can be imported or installed using the virtual environment option
+2. Open the folder using an Editor preferably PyCharm , or VS code and run the below command in the terminal. PyCharm is preferable since only the libraries and modules which are needed for the project can be imported or installed using the virtual environment option
 ```bash
   streamlit run main.py
 ```
