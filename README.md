@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-1) This Movie Recommendation System is an Machine Learning application that suggests personalized movie recommendations based on user preferences.
+1) This Movie Recommendation System is a Machine Learning application that suggests personalized movie recommendations based on user preferences.
 
 2) It uses the content based recommendation system, with the help of Text Vectorization.
 
