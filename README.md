@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# CineMate...A Movie Recommendation System
 
 1) This Movie Recommendation System is a Machine Learning application that suggests personalized movie recommendations based on user preferences.
 
